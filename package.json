@@ -2,7 +2,7 @@
   "name": "openapi-bundle",
   "displayName": "OpenAPI Bundle",
   "description": "Extensión para generar el bundle del contrato OpenAPI incluyendo los schemas referenciados.",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "publisher": "PedroAguilar",
 
   "engines": {
